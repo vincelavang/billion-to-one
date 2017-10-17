@@ -1,3 +1,8 @@
 body {
   background-image: url("images/background.jpeg");
 }
+
+.logo {
+  margin-top: 20px;
+  padding-left: 75px;
+}
