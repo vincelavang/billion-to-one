@@ -8,6 +8,10 @@ body {
 }
 
 h1 {
-  padding-top: 141px;
+  padding-top: 122px;
   text-align: center;
+  font-family: sans-serif;
+  color: white;
+  font-size: 43px;
+  font-weight: 500;
 }
