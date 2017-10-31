@@ -44,3 +44,9 @@ h1 {
 #about {
   padding-right: 26px;
 }
+
+#home:hover,
+#about:hover,
+#publication:hover {
+  color: rgba(255,255,255,.7)
+}
